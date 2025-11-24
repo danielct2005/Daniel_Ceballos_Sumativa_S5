@@ -1,0 +1,5 @@
+C001,Centro Norte,Puerto Aysén,5000,15.111.222-3,Juan Perez,Jefe de Centro
+C002,Estuario Sur,Chiloé,3500,18.444.555-K,Maria Gonzalez,Veterinaria
+C003,Bahía Esperanza,Puerto Montt,8000,12.333.444-5,Carlos Ruiz,Gerente Operaciones
+C004,Canal Chidhuapi,Calbuco,4200,9.888.777-1,Ana Soto,Supervisora
+ERR1,Dato Corrupto,Sin Capacidad,texto,1-9,Sin Nombre,Error
